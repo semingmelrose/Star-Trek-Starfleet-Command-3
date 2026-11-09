@@ -195,3 +195,6 @@ This repository serves as the official landing page for Star Trek: Starfleet Com
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Star Trek: Starfleet Command 3 today!**
+
+---
+**Last updated:** 2026-11-09 12:24:10 UTC
